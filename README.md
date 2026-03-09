@@ -77,3 +77,21 @@ SECUREPAY AI can be extended with advanced techniques such as real-time transact
 ### Conclusion
 
 SECUREPAY AI demonstrates the effective use of unsupervised machine learning techniques for financial anomaly detection. By modeling normal transaction behavior and identifying deviations, the system provides a scalable and intelligent approach to detecting fraudulent activities. The project highlights how AI-driven analytics can enhance financial security, reduce fraud risk, and support decision-making in modern FinTech ecosystems.
+
+## OUTPUT
+
+### Class Distribution
+
+<img width="773" height="579" alt="Image" src="https://github.com/user-attachments/assets/375055bd-0bd5-488d-804b-fd553b155b9c" />
+
+### Amount Distribution
+
+<img width="758" height="535" alt="Image" src="https://github.com/user-attachments/assets/1871cddc-1661-4987-a793-4f30505ed25b" />
+
+### Automation Report
+
+<img width="499" height="495" alt="Image" src="https://github.com/user-attachments/assets/d7be656c-9109-4b73-b491-55d292dcc11f" />
+
+### Generated Anomalies
+
+<img width="726" height="575" alt="Image" src="https://github.com/user-attachments/assets/a9720b8c-ffdb-4c44-97e6-fd8aab569c16" />
